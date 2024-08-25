@@ -4,7 +4,7 @@
 
 ### Utilities
 
-- [s21_instascrypts](https://github.com/reginaharmony/s21_INSTASCRYPTS) - Installs and manages various development tools and utilities. Includes scripts like instaclean.sh, instadock.sh, instabrew.sh, etc.
+- [s21_instascrypts](https://github.com/reginaharmony/s21_INSTASCRYPTS) - Includes scripts like instaclean.sh, instadock.sh, instabrew.sh, etc.
 
 ### Projects (in order up to most recent)
 
