@@ -26,23 +26,16 @@ Here are some ideas to get you started:
 
 ### Projects (in order up to most recent)
 
-- [s21_simplebashutils](https://github.com/reginaharmony/s21_SimpleBashUtils) `Standard `cat` and `grep` shell utilities implementation`
+- [s21_simplebashutils](https://github.com/reginaharmony/s21_SimpleBashUtils) - Standard `cat` and `grep` shell utilities implementation
 
-- [s21_math](https://github.com/reginaharmony/s21_math) `Mathematical functions and algorithms implemented in C`
+- [s21_math](https://github.com/reginaharmony/s21_math) - `math.h` library functions custom implementation in C
 
-- [s21_string](https://github.com/reginaharmony/s21_string)
-  - String manipulation functions and algorithms
+- [s21_string](https://github.com/reginaharmony/s21_string) - `string.h` library functions custom implementation in C
 
-- [s21_decimal](https://github.com/reginaharmony/s21_decimal)
-  - Type manipulation functions and arithmetic library
+- [s21_decimal](https://github.com/reginaharmony/s21_decimal) - Type manipulation and arithmetic functions library
 
-- [s21_matrix](https://github.com/reginaharmony/s21_matrix)
-  - Matrix operations and algorithms implemented in C
+- [s21_matrix](https://github.com/reginaharmony/s21_matrix) - Matrix operations and algorithms implemented in C
 
-- [s21_matrixplus](https://github.com/reginaharmony/s21_matrixplus)
-  - Matrix operations and algorithms implemented in C++
+- [s21_matrixplus](https://github.com/reginaharmony/s21_matrixplus) - Matrix operations and algorithms implemented in C++
 
-- [s21_containers](https://github.com/reginaharmony/s21_containers)
-  - Various container implementations (no details available)
-
-https://github.com/reginaharmony/s21_SimpleBashUtils
+- [s21_containers](https://github.com/reginaharmony/s21_containers) - Various container implementations in C++
