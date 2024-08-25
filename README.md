@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# Table of Contents
+# Contents
 
 ## s21
 
