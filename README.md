@@ -26,11 +26,9 @@ Here are some ideas to get you started:
 
 ### Projects (in order up to most recent)
 
-- [s21_simplebashutils](https://github.com/reginaharmony/s21_SimpleBashUtils)
-  - Standard `cat` and `grep` shell utilities implementation
+- [s21_simplebashutils](https://github.com/reginaharmony/s21_SimpleBashUtils) `Standard `cat` and `grep` shell utilities implementation`
 
-- [s21_math](https://github.com/reginaharmony/s21_math)
-  - Mathematical functions and algorithms implemented in C
+- [s21_math](https://github.com/reginaharmony/s21_math) `Mathematical functions and algorithms implemented in C`
 
 - [s21_string](https://github.com/reginaharmony/s21_string)
   - String manipulation functions and algorithms
